@@ -23,6 +23,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
+
 ![ezgif-5-514e28d778](https://user-images.githubusercontent.com/93749279/215363928-26c17e6c-459e-4440-adff-143bedf9e946.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
