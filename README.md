@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='https://i.giphy.com/media/eg44axZTX5R6PEFrLf/giphy-downsized-large.giff' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ezgif-5-514e28d778](https://user-images.githubusercontent.com/93749279/215363928-26c17e6c-459e-4440-adff-143bedf9e946.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Xbox
